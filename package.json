@@ -1,0 +1,24 @@
+{
+  "name": "cljs-quickstart",
+  "version": "1.0.0",
+  "description": "<https://clojure.org/guides/getting_started>",
+  "main": "main.js",
+  "dependencies": {
+    "source-map-support": "^0.5.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filipesilva/cljs-quickstart.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/filipesilva/cljs-quickstart/issues"
+  },
+  "homepage": "https://github.com/filipesilva/cljs-quickstart#readme"
+}
